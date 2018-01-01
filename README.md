@@ -10,7 +10,9 @@ This is a simple implementation of a bucketlist using flask and python 2.7.
 - [Create a virtualenv for the project](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 - Use MySQL for DB storage
     - MYSQL : 
-        ``` $ mysql.server start
-            $ mysql```
+        ```
+        $ mysql.server start
+        $ mysql
+        ```
         
         
